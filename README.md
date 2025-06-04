@@ -55,6 +55,11 @@ O jogo deve se enquadrar em **um** dos seguintes gêneros:
 - **Projetos copiados** (mesmo que parcialmente) da internet serão desqualificados.
 
 ---
+## como rodar
+
+pip install pgzero
+pgzrun game.py   
+
 
 ## 📁 Entrega
 
